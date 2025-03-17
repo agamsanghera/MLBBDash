@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+test.rmd
 # C extensions
 *.so
-
+test*
 # Distribution / packaging
 .Python
 build/
@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.Rproj.user
