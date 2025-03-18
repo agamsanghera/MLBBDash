@@ -16,7 +16,7 @@ The goal is to destroy the opposing team's base, known as the "main crystal," lo
 # App Description
 
 
-/video/demo.mov
+![video/demo.mov](https://github.com/agamsanghera/MLBBDash/blob/main/video/demo.mov)
 
 ----
 
