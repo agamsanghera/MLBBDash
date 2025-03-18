@@ -1,0 +1,12 @@
+name: MLBB
+title: MLBB
+username: agamsanghera
+account: agamsanghera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14269690
+bundleId: 9960317
+url: https://agamsanghera.shinyapps.io/MLBB/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

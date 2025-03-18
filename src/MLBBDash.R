@@ -8,7 +8,7 @@ library(plotly)
 library(bslib)
 
 #load in data
-df <- fromJSON("../data/data.json")
+df <- fromJSON("data/data.json")
 
 #layout
 heroes <- (df|>select(name))[[1]]
