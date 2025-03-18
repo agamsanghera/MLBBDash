@@ -126,7 +126,7 @@ server <- function(input, output, session) {
                     "color: #B7B7CE;",
                     "font-weight: bold;",
                     "text-align: center;",
-                    "width: 90px;"),
+                    "width: 120px;"),
       str_to_sentence(role1))
   })
   
@@ -144,7 +144,7 @@ server <- function(input, output, session) {
                       "color: #B7B7CE;",
                       "font-weight: bold;",
                       "text-align: center;",
-                      "width: 90px;"),
+                      "width: 120px;"),
         str_to_sentence(role2))
     }
   })
